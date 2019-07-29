@@ -17,8 +17,8 @@ float temperature, humidity, pressure, altitude;
 
 
 /*Put your SSID & Password*/
-const char* ssid = "Hringdu_100504";  // Enter SSID here
-const char* password = "cyberspy";  //Enter Password here
+const char* ssid = "router";  // Enter SSID here
+const char* password = "password";  //Enter Password here
 
 ESP8266WebServer server(80);
 
